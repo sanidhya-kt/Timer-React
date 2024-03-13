@@ -1,0 +1,17 @@
+ body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aquamarine;
+ }
+
+ .timer {
+    font-size: 40px;
+    margin-inline: 10em;
+    text-align: center;
+    
+}
+
+#example2 {
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 3rem;
+  }
